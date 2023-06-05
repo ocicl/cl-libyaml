@@ -1,0 +1,9 @@
+* cl-libyaml
+
+libyaml bindings for Common Lisp
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/eudoxia0/cl-libyaml.git |
+| commit  | a7fe9f6                                        |
+| systems | cl-libyaml                                     |
+|---------+------------------------------------------------|
